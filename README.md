@@ -9,6 +9,6 @@ List of personal projects and useful information
 
 ## Python libraries
 - **lets-plot** - ggplot2-like plotting tool by Jetbrains (with python API, already installed in Datalore).
-- **(pandasSQL)[https://pypi.org/project/pandasql/#description]** 
+- **[pandasSQL](https://pypi.org/project/pandasql/#description)** 
   - a sql interface for pandas!!! looks great!
   - doesn't seem to have been updated for a while
